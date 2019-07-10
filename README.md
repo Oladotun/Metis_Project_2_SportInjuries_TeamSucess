@@ -10,7 +10,7 @@ In the 2018-2019 NBA Season, Two players of the Golden State Warriors, Draymond 
 
 1. Scrape Sport Injuries data from 2010 - 2019 from Pro Sports Transactions<br>
 2. Scrape Player informations data and Teams record data from Basketball Reference <br>
-3.Calculate team record ratio when the valuable player is injured<br>
+3. Calculate team record ratio when the valuable player is injured<br>
 4. Build linear regression using current scraped data<br>
 
 ## DATA SOURCES:
