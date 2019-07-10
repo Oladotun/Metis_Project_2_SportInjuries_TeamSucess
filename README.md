@@ -34,6 +34,8 @@ In the 2018-2019 NBA Season, Two players of the Golden State Warriors, Draymond 
 - Difference Between Win and Loss
 
 ## THINGS TO CONSIDER
+- Scraping the data may take longer than expected.
+- In terms of using Regression I need to make sure that the way I represent the team's record lends itself to the model.
 
 
 
