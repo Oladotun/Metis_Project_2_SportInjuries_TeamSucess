@@ -1,9 +1,6 @@
 # METIS PROJECT 2: PREDICTING NUMBER OF NBA TEAM WINS AND LOSSES BASED ON VALUABLE PLAYERS INJURIES
---- 
 ## PROJECT PROPOSAL, METIS PROJECT #2
---- 
 ## DOTUN OPASINA
----
 
 ## SCOPE:
 
@@ -18,7 +15,7 @@ In the 2018-2019 NBA Season, Two players of the Golden State Warriors, Draymond 
 
 ## DATA SOURCES:
 -  [Pro Sports Transactions ](http://www.prosportstransactions.com/basketball/) <br>
--  [Basketball Reference] (https://www.basketball-reference.com/)
+-  [Basketball Reference](https://www.basketball-reference.com/)
 
 ## TARGET
 - MVP: Number of Sport Injuries per season from 2010-2019 on high earning players.\
