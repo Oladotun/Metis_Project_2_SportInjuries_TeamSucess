@@ -18,7 +18,7 @@ In the 2018-2019 NBA Season, Two players of the Golden State Warriors, Draymond 
 -  [Basketball Reference](https://www.basketball-reference.com/)
 
 ## TARGET
-- MVP: Number of Sport Injuries per season from 2010-2019 on high earning players.\
+- MVP: Number of Sport Injuries per season from 2010-2019 on high earning players.
 - Goal: Get a score showing relationship between Sport player and Team's record.
 
 ## FEATURES
