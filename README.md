@@ -29,9 +29,18 @@ In the 2018-2019 NBA Season, Two players of the Golden State Warriors, Draymond 
 - Player's Duration in the NBA in Years
 - Average Earnings of Players
 - Maximum earning
-- Number of Team Wins during Injury
-- Number of Team Loss during Injury
+- Number of Team Wins during player's Injury per season
+- Number of Team Loss during player's Injury per season
 - Difference Between Win and Loss
+
+## FEATURES TO INCLUDE INTO LINEAR REGRESSION MODEL
+- Player's name
+- Player's team
+- Player's current season earnings
+- - Number of Team Wins during player's Injury per season
+- Number of Team Loss during player's Injury per season
+- Difference Between Win and Loss
+
 
 ## THINGS TO CONSIDER
 - Scraping the data may take longer than expected.
